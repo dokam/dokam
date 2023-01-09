@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dokam
 - 👀 I’m interested in Oriented Programming Languages.
-- 🌱 I’m currently learning for take the certification on JAVA OCP 11.
 - 📫 How to reach me => kaminskidk@gmail.com
 
 <!---
